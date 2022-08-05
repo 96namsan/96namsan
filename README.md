@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
+![96namsan's github stats](https://github-readme-stats.vercel.app/api?username=96namsan)
 <!--
 **96namsan/96namsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
