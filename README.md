@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
+https://96namsan.github.io/Resume/
 
 
 ![96namsan's github stats](https://github-readme-stats.vercel.app/api?username=96namsan)
